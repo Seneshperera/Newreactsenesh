@@ -2,7 +2,7 @@ import React from 'react'
 
 function pagetwo() {
   return (
-    <div className='h-screen bg-cover bg-center bg-[url("./project1/Gradient bg.png")]'>
+    <div className='h-screen bg-cover bg-center bg-[url("public\project1\Gradient bg.png")]'>
 
         <div className='text-left ml-10'>
             <h1 className='text-gray-400'>01</h1>

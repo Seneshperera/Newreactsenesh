@@ -28,13 +28,13 @@ function PageTwo() {
             />
           </div>
           <div>
+            
+          </div>
           <img
             src="public/project1/Image bottom2.png"
             alt="Bottom Image"
             className="mt-6"
           />
-          </div>
-          
         </div>
 
         

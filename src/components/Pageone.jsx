@@ -37,6 +37,13 @@ function Pageone() {
         />
       </div>
 
+      <div style={{ position: 'absolute', top: '50%', left: '50%', transform: 'translate(-50%, -50%)' }}>
+        <img
+         src="public/project1/Dawn.png" 
+         alt="pattern1" 
+         className='h-40 w-40 animate-[spin_10s_linear_infinite]'/>
+      </div>
+
       {/* Right Content */}
       <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-2 gap-4 md:w-4/5">
         <img
@@ -49,6 +56,13 @@ function Pageone() {
           src="public/project1/image1.jfif"
           alt="Third Image"
         />
+
+      <div className='absolute top-96 right-2 '>
+        <img
+         src="public/project1/Dawn.png" 
+         alt="pattern2" 
+         className='h-40 w-40 animate-[spin_10s_linear_infinite]'/>
+      </div>
         <p className='ml-64 w-80 h-6 text-gray-600'>
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Faucibus in libero risus semper habitant arcu eget. Et integer facilisi eget diam.
         </p>

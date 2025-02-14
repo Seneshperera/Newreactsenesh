@@ -49,10 +49,10 @@ function PageTwo() {
 
           {/* Content div */}
           <div className="text-center mx-auto relative z-10">
-            <h1 className="text-6xl font-semibold leading-tight">
+            <h1 className="text-7xl font-semibold leading-tight ">
               Create <br /> Your <br /> Design
             </h1>
-            <p className="text-gray-600 font-thin text-lg md:text-xl mt-6 leading-relaxed">
+            <p className="text-gray-600 font-thin text-lg md:text-xl mt-6 ">
               Lorem ipsum dolor sit amet, consectetur adipiscing elit. Faucibus in libero risus semper habitant arcu eget.
             </p>
             <button className="bg-black text-white py-2 px-4 rounded-full hover:bg-gray-800 transition mt-10 md:mt-20 w-28">

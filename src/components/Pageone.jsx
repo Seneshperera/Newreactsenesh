@@ -9,10 +9,10 @@ function Pageone() {
           Discover.<br />Explore.<br />Inspire.
         </h1>
         <p className="text-gray-600 mb-7 w-[416px] leading-relaxed text-xl">
-        Lorem ipsum dolor sit amet,consectetur <br/> adipiscing elit. Faucibus in libero risus <br/>
-        semper habitant arcu eget. Et integer<br/> facilisi eget diam.
+        Transform your space with ABC (Pvt) Ltd. We  <br/> create inspiring, personalized designs that  <br/>
+        reflect your style. <br/>
         </p>
-        <button className="bg-black text-white py-2 px-4 rounded-full hover:bg-gray-800 transition  w-28">
+        <button className="bg-black text-white py-2 px-4 rounded-full hover:bg-zinc-700 transition  w-28 shadow-md hover:shadow-lg shadow-black">
           Explore
         </button>
 
@@ -41,7 +41,7 @@ function Pageone() {
         <img
          src="public/project1/Dawn.png" 
          alt="pattern1" 
-         className='h-40 w-40 animate-[spin_10s_linear_infinite]'/>
+         className='w-24 h-24 sm:w-32 sm:h-32 md:w-40 md:h-40 animate-[spin_10s_linear_infinite]'/>
       </div>
 
       {/* Right Content */}
@@ -61,10 +61,10 @@ function Pageone() {
         <img
          src="public/project1/Dawn.png" 
          alt="pattern2" 
-         className='h-40 w-40 animate-[spin_10s_linear_infinite]'/>
+         className='w-24 h-24 sm:w-32 sm:h-32 md:w-40 md:h-40 animate-[spin_10s_linear_infinite]'/>
       </div>
-        <p className='ml-64 w-80 h-6 text-gray-600'>
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Faucibus in libero risus semper habitant arcu eget. Et integer facilisi eget diam.
+        <p className='ml-64 mt-20  w-80 h-6 text-gray-600'>
+        Discover tailored design solutions for every space. From single rooms to full home makeovers, we’ve got you covered.
         </p>
       </div>
     </div>

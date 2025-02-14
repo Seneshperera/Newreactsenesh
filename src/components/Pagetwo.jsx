@@ -10,15 +10,15 @@ function PageTwo() {
         <div className="w-full md:w-1/3 text-left space-y-4 relative">
           <h1 className="text-gray-400 text-2xl">01</h1>
           <p className="text-gray-700">
-            Lorem ipsum dolor sit amet, <br /> consectetur adipiscing elit.
-            <br /> Faucibus in libero risus.
+          <span className="font-bold">Personalized Design</span><br />
+          We craft designs that match your unique style and needs.
           </p>
 
           <div className="mt-5 ">
             <img
               src="/public/project1/Explosion.png"
               alt="Explosion"
-              className="w-full"
+              className="w-auto"
             />
           </div>
 
@@ -53,9 +53,9 @@ function PageTwo() {
               Create <br /> Your <br /> Design
             </h1>
             <p className="text-gray-600 font-thin text-lg md:text-xl mt-6 ">
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit. Faucibus in libero risus semper habitant arcu eget.
+            Turn your vision into reality. We create personalized spaces that reflect your unique style.
             </p>
-            <button className="bg-black text-white py-2 px-4 rounded-full hover:bg-gray-800 transition mt-10 md:mt-20 w-28">
+            <button className="bg-black text-white py-2 px-4 rounded-full hover:bg-gray-800 transition mt-10 md:mt-20 w-28 shadow-md hover:shadow-lg shadow-black">
               Explore
             </button>
           </div>
@@ -74,15 +74,16 @@ function PageTwo() {
             <img
               src="/public/project1/Party.png"
               alt="Party"
-              className="w-full"
+              className="w-auto"
             />
           </div>
 
           <div className="text-left space-y-4 mt-5">
             <h1 className="text-gray-400 text-2xl">02</h1>
             <p className="text-gray-700">
-              Lorem ipsum dolor sit amet, <br /> consectetur adipiscing elit.{" "}
-              <br /> Faucibus in libero risus.
+              <span className="font-bold">Innovative Solutions</span><br />
+            We use the latest trends and  <br /> technologies to create modern, {" "}
+              <br /> functional spaces.
             </p>
           </div>
         </div>

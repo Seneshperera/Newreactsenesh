@@ -63,7 +63,7 @@ function PageTwo() {
 
         {/* Right Content */}
         <div className="w-full md:w-1/3 relative">
-          <div className="bg-blue-300 rounded-full w-48 h-48 absolute right-10 top-5"></div>
+          
           <img
             src="/public/project1/Image top2.png"
             alt="Top Image"
